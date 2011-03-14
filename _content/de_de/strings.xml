@@ -3467,7 +3467,7 @@
 		<str id="achv.and">und</str>
 		<str id="achv.solo">Solo</str>
 		<str id="achv.earned">verdient </str>
-		<str id="achv.on">auf</str>
+		<str id="achv.on">am</str>
 		<str id="compare.achievements">Charakter zum Vergleichen hinzufügen</str>
 		<str id="compare.achievements.button">Vergleichen</str>
 		<str id="compare.max">Ihr könnt bis zu <param1/> Charaktere gleichzeitig vergleichen. Ihr müsst einen der untenstehenden Charaktere entfernen, bevor ihr einen neuen hinzufügen könnt.</str>

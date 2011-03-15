@@ -3026,7 +3026,7 @@ Class Items {
      * @return   int
      **/
     public function GetItemEntryByGUID($item_guid) {
-        return Armory::$cDB->selectCell("SELECT `item_template` FROM `character_inventory` WHERE `item`=%d", $item_guid);
+        return Armory::$cDB->selectCell("SELECT `itemEntry` FROM `item_instance` WHERE `guid`=%d", $item_guid);
     }
     
     /**

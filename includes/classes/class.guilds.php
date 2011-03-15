@@ -330,7 +330,7 @@ Class Guilds {
             Armory::Log()->writeError('%s : guildId not defined', __METHOD__);
             return false;
         }
-        $items_list = Armory::$cDB->select("SELECT `item_entry` AS `id`, `item_guid` AS `seed`, `SlotId` AS `slot`, `TabId` AS `bag` FROM `guild_bank_item` WHERE `guildid`=%d", $this->guildId);
+        $items_list = Armory::$cDB->select("SELECT (SELECT `itemEntry` FROM `item_instance` WHERE `guid` = item_guid) AS `id`, `item_guid` AS `seed`, `SlotId` AS `slot`, `TabId` AS `bag` FROM `guild_bank_item` WHERE `guildid`=%d", $this->guildId);
         $count_items = count($items_list);
         for($i = 0; $i < $count_items; $i++) {
             $item_data = Armory::$wDB->selectRow("SELECT `RandomProperty`, `RandomSuffix` FROM `item_template` WHERE `entry` = %d LIMIT 1", $items_list[$i]['id']);

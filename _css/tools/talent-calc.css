@@ -104,7 +104,7 @@ a.awesomeButton-printableVersion div { background-image: url('../../images/talen
 .talentGlyphBgPet {background:url('../../images/talents/talent-bg-top-pet.jpg') left top no-repeat}
 .talentGlyphFooter {background:url('../../images/talents/talent-bg-bottom-no-pet.jpg') left bottom no-repeat}
 .talentGlyphFooterPet {background:url('../../images/talents/talent-bg-bottom-pet.jpg') left bottom no-repeat}
-.talentGlyphHeader, .talentGlyphHeaderMultiSpec { padding:0 0 0 15px }
+.talentGlyphHeader, .talentGlyphHeaderMultiSpec { padding:0px 0px 0px 15px }
 .talentGlyphHeader {}
 .talentGlyphHeaderMultiSpec {background:url('../../images/talents/talent-bg-top-double.jpg') left top no-repeat;}
 

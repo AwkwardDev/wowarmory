@@ -41,7 +41,7 @@
 		<relatedlink name="Información básica sobre objetos" type="external" url="http://www.wow-europe.com/en/info/items/basics.html"/>
 		<relatedlink type="hr"/>
 		<relatedlink name="Preguntas frecuentes" url="faq-armory.xml"/>		
-		<relatedlink name="Problemas conocidos" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016251969&amp;sid=4"/>
-		<relatedlink name="Informa de un error" type="report" url="http://forums.wow-europe.com/board.html?forumId=11088&amp;sid=1"/>
+		<!--<relatedlink name="Problemas conocidos" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016251969&amp;sid=4"/>
+		<relatedlink name="Informa de un error" type="report" url="http://forums.wow-europe.com/board.html?forumId=11088&amp;sid=1"/>-->
 	</relatedlinks>
 </relatedinfo>

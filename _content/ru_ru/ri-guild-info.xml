@@ -71,13 +71,13 @@
 	</faqlist>
 	<relatedlinks>
 		<relatedlink name="Путеводитель по гильдиям" type="external" url="http://www.wow-europe.com/ru/info/basics/guilds.html"/>
-		<relatedlink name="Вступить в гильдию" type="external" url="http://www.wow-europe.com/ru/info/basics/joiningguilds.html"/>
+		<!--<relatedlink name="Вступить в гильдию" type="external" url="http://www.wow-europe.com/ru/info/basics/joiningguilds.html"/>
 		<relatedlink name="Управление гильдией" type="external" url="http://www.wow-europe.com/ru/info/basics/guildtab.html"/>
-		<relatedlink name="Руководство гильдией" type="external" url="http://www.wow-europe.com/ru/info/basics/guildleadership.html"/>
+		<relatedlink name="Руководство гильдией" type="external" url="http://www.wow-europe.com/ru/info/basics/guildleadership.html"/>-->
 		<relatedlink type="hr"/>
 		<relatedlink name="Часто задаваемые вопросы" url="faq-armory.xml"/>		
-		<relatedlink name="Возможные проблемы" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016061940&amp;sid=1"/>
+		<!--<relatedlink name="Возможные проблемы" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016061940&amp;sid=1"/>
 		<relatedlink name="Сообщить о технической ошибке" type="report" url="http://forums.wow-europe.com/board.html?&amp;sid=5&amp;forumId=50005"/>
-		<relatedlink name="Сообщить об ошибке в переводе" type="report" url="http://forums.wow-europe.com/board.html?forumId=50002&amp;sid=5"/>	
+		<relatedlink name="Сообщить об ошибке в переводе" type="report" url="http://forums.wow-europe.com/board.html?forumId=50002&amp;sid=5"/>-->	
 		</relatedlinks>
 </relatedinfo>

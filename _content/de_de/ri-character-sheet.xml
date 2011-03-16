@@ -45,11 +45,11 @@
 		<relatedlink name="Guide zu Charakterattributen" type="external" url="http://www.wow-europe.com/de/info/basics/characters.html"/>
 		<relatedlink name="Völker" type="external" url="http://www.wow-europe.com/de/info/races/index.html"/>
 		<relatedlink name="Klassen" type="external" url="http://www.wow-europe.com/de/info/classes/index.html"/>
-		<relatedlink name="Berufe" type="external" url="http://www.wow-europe.com/de/info/professions/index.html"/>
+		<!-- Link ist veraltet <relatedlink name="Berufe" type="external" url="http://www.wow-europe.com/de/info/professions/index.html"/>-->
 		<relatedlink type="hr"/>
 		<relatedlink name="Häufig gestellte Fragen" url="faq-armory.xml"/>
-		<relatedlink name="Bekannte Probleme" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016252444&amp;sid=3"/>
+		<!--<relatedlink name="Bekannte Probleme" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016252444&amp;sid=3"/>
 		<relatedlink name="Fehler melden" type="report" url="http://forums.wow-europe.com/board.html?forumId=11088&amp;sid=1"/>
-		<relatedlink name="Übersetzungsfehler melden" type="translation" url="http://forums.wow-europe.com/board.html?forumId=11113&amp;sid=3"/>
+		<relatedlink name="Übersetzungsfehler melden" type="translation" url="http://forums.wow-europe.com/board.html?forumId=11113&amp;sid=3"/>-->
 	</relatedlinks>
 </relatedinfo>

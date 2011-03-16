@@ -396,7 +396,7 @@
 		<xsl:for-each select="vendors/creature">
 		<xsl:sort select="@dropRate" data-type="number" order="descending" />
 		<tr>
-		<td><q><span><i><xsl:value-of select="@name" /></i></span></q></td>
+		<td><q><span><i><a href="http://de.wowhead.com/npc={@id}" target="_blank"><xsl:value-of select="@name" /></a></i></span></q></td>
 		<td align="center"><q><xsl:value-of select="@minLevel"/><xsl:if test="@maxLevel &gt; @minLevel">-<xsl:value-of select="@maxLevel"/></xsl:if>
 		<xsl:if test="@classification &gt; 0">&#160;<xsl:call-template name="printCreatureClassification"><xsl:with-param name="classification" select="@classification"/></xsl:call-template></xsl:if></q></td>
 		<td><q><xsl:value-of select="@area" /></q></td>
@@ -641,7 +641,7 @@
 						<td><q><span><i class="mobName">
 							<xsl:choose>
 								<xsl:when test="@url"><a href="search.xml?searchType=items&amp;{@url}"><xsl:value-of select="@name" /></a></xsl:when>
-								<xsl:otherwise><xsl:value-of select="@name" /></xsl:otherwise>
+								<xsl:otherwise><a href="http://de.wowhead.com/npc={@id}" target="_blank"><xsl:value-of select="@name" /></a></xsl:otherwise>
 							</xsl:choose>
 						</i></span></q></td>
 						<td align="center">
@@ -708,7 +708,7 @@
 				<xsl:for-each select="$dropTypeNode/quest">
 					<xsl:sort select="@reqMinLevel" data-type="number" order="descending" />
 					<tr>
-						<td><q><span><i><xsl:value-of select="@name" /></i></span></q></td>
+						<td><q><span><i><a href="http://de.wowhead.com/quest={@id}" target="_blank"><xsl:value-of select="@name" /></a></i></span></q></td>
 						<td align="center"><q><xsl:value-of select="@reqMinLevel"/></q></td>
 						<td><q><xsl:value-of select="@area" /></q></td>
 					</tr>

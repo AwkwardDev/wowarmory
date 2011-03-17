@@ -49,7 +49,7 @@
         
         <div id="forumLinks">
 			<!-- ahref around the whole block so the entire thing is clickable -->			
-			<a class="staticTip" href="http://www.landoflegends.de/index.php" onmouseover="setTipText('{$loc/strs/unsorted/str[@id='armory.forum.link.realm']}');" onclick="window.open(this.href);return false;">
+			<a class="staticTip" href="{$regionForumsURL}index.php" onmouseover="setTipText('{$loc/strs/unsorted/str[@id='armory.forum.link.realm']}');" onclick="window.open(this.href);return false;">
 				<xsl:if test="not($region = 'US' or $region = 'EU')">
 					<xsl:attribute name="href">javascript:void(0)</xsl:attribute>
 					<xsl:attribute name="class"></xsl:attribute>
@@ -57,7 +57,7 @@
 				</xsl:if>
 				<xsl:value-of select="$c/@realm" />
 			</a> /
-			<a class="staticTip" href="http://www.landoflegends.de/portal.php" onmouseover="setTipText('{$loc/strs/unsorted/str[@id='armory.forum.link.battleGroup']}');" onclick="window.open(this.href);return false;">
+			<a class="staticTip" href="{$regionForumsURL}portal.php" onmouseover="setTipText('{$loc/strs/unsorted/str[@id='armory.forum.link.battleGroup']}');" onclick="window.open(this.href);return false;">
 				<xsl:if test="not($region = 'US' or $region = 'EU')">
 					<xsl:attribute name="href">javascript:void(0)</xsl:attribute>
 					<xsl:attribute name="class"></xsl:attribute>

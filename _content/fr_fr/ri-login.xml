@@ -28,9 +28,9 @@
 		<relatedlink name="Récompenses de faction" url="factions.xml"/>
 		<relatedlink name="Récompenses JcJ" url="pvprewards.xml"/>		
 		<relatedlink type="hr"/>
-		<relatedlink name="Informations sur les tournois d'arène" url="arena-tournament.xml"/>		
-		<relatedlink type="hr"/>		
+		<!--<relatedlink name="Informations sur les tournois d'arène" url="arena-tournament.xml"/>		
+		<relatedlink type="hr"/>-->		
 		<relatedlink name="F.A.Q." url="faq-armory.xml"/>		
-		<relatedlink name="Signaler une erreur" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Décrivez l'erreur ci-dessous. Navigateur : NOM-DU-NAVIGATEUR. Adresse de la page sur laquelle se trouve l'erreur : ADRESSE"/>
+		<!--<relatedlink name="Signaler une erreur" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Décrivez l'erreur ci-dessous. Navigateur : NOM-DU-NAVIGATEUR. Adresse de la page sur laquelle se trouve l'erreur : ADRESSE"/>-->
 	</relatedlinks>
 </relatedinfo>

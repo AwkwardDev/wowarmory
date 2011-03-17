@@ -16,10 +16,10 @@
 	<relatedlinks>
 		<relatedlink name="Рейтинг Туурнира арены" url="battlegroups.xml#tournament"/>
 		<relatedlink name="Информация о Турнире арены" url="http://www.worldofwarcraft.com/pvp/tournament/index.xml"/>
-		<relatedlink name="Регистрация" url="http://www.worldofwarcraft.com/account/"/>
+		<!--<relatedlink name="Регистрация" url="http://www.worldofwarcraft.com/account/"/>-->
 		<relatedlink type="hr"/>
 		<relatedlink name="ЧаВо" url="faq-armory.xml"/>
-		<relatedlink name="Известные ошибки" url="http://forums.worldofwarcraft.com/thread.html?topicId=2765957433&amp;sid=1"/>		
-		<relatedlink name="Сообщить об ошибке" type="report" url="mailto:wowarmory@blizzard.com?subject=Ошибка Оружейнойr&amp;body=Опишите ошибку. Браузер: название браузера. Ошибка на странице: адрес страницы"/>
+		<!--<relatedlink name="Известные ошибки" url="http://forums.worldofwarcraft.com/thread.html?topicId=2765957433&amp;sid=1"/>		
+		<relatedlink name="Сообщить об ошибке" type="report" url="mailto:wowarmory@blizzard.com?subject=Ошибка Оружейнойr&amp;body=Опишите ошибку. Браузер: название браузера. Ошибка на странице: адрес страницы"/>-->
 	</relatedlinks>
 </relatedinfo>

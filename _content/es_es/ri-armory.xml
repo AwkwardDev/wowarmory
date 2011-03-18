@@ -9,14 +9,14 @@
 		<faq question="¿Cuáles son las nuevas funciones disponibles al iniciar sesión en la Armería?">
 			Haz clic en el enlace "Iniciar sesión" que se encuentra en la parte superior derecha para ir a la página de inicio de la Armería. Inicia sesión con los mismos datos de la cuenta que utilizas para jugar a World of Warcraft. Una vez que hayas iniciado sesión, podrás acceder al contenido protegido por contraseña de todos los personajes de la cuenta, además de la información de los bancos de hermandad y del calendario de jugadores.
 			<p/>
-			Más información sobre la interfaz de selección de personaje y del proceso de inicio de sesión en nuestras <a href="/faq-login.xml">preguntas frecuentes sobre el acceso a la Armería</a>.
+			Más información sobre la interfaz de selección de personaje y del proceso de inicio de sesión en nuestras <a href="faq-login.xml">preguntas frecuentes sobre el acceso a la Armería</a>.
 		</faq>
 		<faq question="¿Por qué el perfil de mi personaje aparece diferente?">
-			Con el nuevo parche 3.3, se ha rediseñado y mejorado el perfil de personaje en la Armería con nuevas opciones, incluido un 3D Model Viewer, canales de información sobre la actividad y el calendario del personaje, etc. Puedes encontrar más información sobre estas novedades en la <a href="/updates.xml">página de actualizaciones</a>.
+			Con el nuevo parche 3.3, se ha rediseñado y mejorado el perfil de personaje en la Armería con nuevas opciones, incluido un 3D Model Viewer, canales de información sobre la actividad y el calendario del personaje, etc. Puedes encontrar más información sobre estas novedades en la <a href="updates.xml">página de actualizaciones</a>.
 		</faq>	
-		<faq exclude="CN,TW" question="¿Qué es la Armería Móvil?">
-			La Armería Móvil de World of Warcraft es una versión móvil de la base de datos oficial de World of Warcraft para el iPhone™ y el iPod touch®. Esta aplicación es gratuita y se puede descargar desde la App Store de iTunes®, con gran parte de las mismas funciones e información que puedes encontrar en la página web de la Armería. Más información en la página de la <a href="/iphone.xml">Armería Móvil</a>.
-		</faq>
+		<!--<faq exclude="CN,TW" question="¿Qué es la Armería Móvil?">
+			La Armería Móvil de World of Warcraft es una versión móvil de la base de datos oficial de World of Warcraft para el iPhone™ y el iPod touch®. Esta aplicación es gratuita y se puede descargar desde la App Store de iTunes®, con gran parte de las mismas funciones e información que puedes encontrar en la página web de la Armería. Más información en la página de la <a href="iphone.xml">Armería Móvil</a>.
+		</faq>-->
 		<faq question="¿Cuáles son los navegadores recomendados para la Armería?">
 			La Armería es perfectamente compatible con Internet Explorer (versión 6 o superior), Firefox, Opera 9, Safari y Chrome, y ha sido optimizada para que funcione sin problemas en sus versiones más recientes. Por otra parte, ciertas funciones necesitan <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;promoid=BIOW">Flash Player</a> para su correcto funcionamiento.
 		</faq>

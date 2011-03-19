@@ -17,13 +17,13 @@
 		</faq>-->
 	</faqlist>
 	<relatedlinks>
-		<relatedlink name="Турнир Арены" url="arena-tournament.xml"/>		
-		<relatedlink type="hr"/>
+		<!--<relatedlink name="Турнир Арены" url="arena-tournament.xml"/>		
+		<relatedlink type="hr"/>-->
 		<relatedlink name="Система поединков на Арене" type="external" url="http://www.wow-europe.com/ru/info/basics/arena/index.html"/>
-		<relatedlink name="Арена: взгляд изнутри" type="external" url="http://www.wow-europe.com/ru/misc/wowinsider/wowi11/arena.html"/>
+		<!--<relatedlink name="Арена: взгляд изнутри" type="external" url="http://www.wow-europe.com/ru/misc/wowinsider/wowi11/arena.html"/>
 		<relatedlink type="hr"/>	
 		<relatedlink name="Возможные проблемы" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016061940&amp;sid=1"/>
 		<relatedlink name="Сообщить о технической ошибке" type="report" url="http://forums.wow-europe.com/board.html?&amp;sid=5&amp;forumId=50005"/>
-		<relatedlink name="Сообщить об ошибке в переводе" type="report" url="http://forums.wow-europe.com/board.html?forumId=50002&amp;sid=5"/>
+		<relatedlink name="Сообщить об ошибке в переводе" type="report" url="http://forums.wow-europe.com/board.html?forumId=50002&amp;sid=5"/>-->
 	</relatedlinks>
 </relatedinfo>

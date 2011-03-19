@@ -28,10 +28,10 @@
 		<relatedlink name="Belohnungen für Ruf" url="factions.xml"/>
 		<relatedlink name="Belohnungen für PvP" url="pvprewards.xml"/>		
 		<relatedlink type="hr"/>
-		<relatedlink name="Arenaturnier" url="arena-tournament.xml"/>		
-		<relatedlink type="hr"/>		
+		<!--<relatedlink name="Arenaturnier" url="arena-tournament.xml"/>		
+		<relatedlink type="hr"/>-->		
 		<relatedlink name="Häufig gestellte Fragen" url="faq-armory.xml"/>		
-		<relatedlink name="Fehler melden" type="report" url="http://forums.wow-europe.com/board.html?forumId=11088&amp;sid=1"/>
-		<relatedlink name="Übersetzungsfehler melden" type="translation" url="http://forums.wow-europe.com/board.html?forumId=11113&amp;sid=3"/>
+		<!--<relatedlink name="Fehler melden" type="report" url="http://forums.wow-europe.com/board.html?forumId=11088&amp;sid=1"/>
+		<relatedlink name="Übersetzungsfehler melden" type="translation" url="http://forums.wow-europe.com/board.html?forumId=11113&amp;sid=3"/>-->
 	</relatedlinks>
 </relatedinfo>

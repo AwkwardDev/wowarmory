@@ -75,7 +75,7 @@
 												
 						<div style="position: absolute; margin: 116px 0 0 210px;">
 							<!-- ahref around the whole block so the entire thing is clickable -->			
-							<a class="smFrame staticTip" href="{$regionForumsURL}board.html?sid=1&amp;forumName={guildHeader/@realm}" onmouseover="setTipText('{$loc/strs/unsorted/str[@id='armory.forum.link.realm']}');">
+							<a class="smFrame staticTip" href="{$regionForumsURL}index.php" onmouseover="setTipText('{$loc/strs/unsorted/str[@id='armory.forum.link.realm']}');">
 								<xsl:if test="not($region = 'US' or $region = 'EU')">
 									<xsl:attribute name="href">javascript:void(0)</xsl:attribute>
 									<xsl:attribute name="class">smFrame</xsl:attribute>
@@ -84,7 +84,7 @@
 								<div><xsl:value-of select="guildHeader/@realm" /></div>
 								<img src="images/icon-header-realm.gif" />
 							</a>
-							<a class="smFrame staticTip" href="{$regionForumsURL}board.html?sid=1&amp;forumName={guildHeader/@battleGroup}" onmouseover="setTipText('{$loc/strs/unsorted/str[@id='armory.forum.link.battleGroup']}');">
+							<a class="smFrame staticTip" href="{$regionForumsURL}portal.php" onmouseover="setTipText('{$loc/strs/unsorted/str[@id='armory.forum.link.battleGroup']}');">
 								<xsl:if test="not($region = 'US' or $region = 'EU')">
 									<xsl:attribute name="href">javascript:void(0)</xsl:attribute>
 									<xsl:attribute name="class">smFrame</xsl:attribute>

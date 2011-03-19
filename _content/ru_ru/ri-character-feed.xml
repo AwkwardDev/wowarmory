@@ -30,12 +30,12 @@
 		<relatedlink name="Поиск персонажей" url="character-search.xml"/>
 		<relatedlink type="hr"/>
 		<relatedlink name="Ваш персонаж" type="external" url="http://www.wow-europe.com/ru/info/basics/index.html#character"/>
-		<relatedlink name="Расы" type="external" url="http://www.wow-europe.com/ru/info/races/index.html"/>
+		<!--<relatedlink name="Расы" type="external" url="http://www.wow-europe.com/ru/info/races/index.html"/>
 		<relatedlink name="Классы" type="external" url="http://www.wow-europe.com/ru/info/classes/index.html"/>
-		<relatedlink name="Профессии" type="external" url="http://www.wow-europe.com/ru/info/professions/intro.html"/>
+		<relatedlink name="Профессии" type="external" url="http://www.wow-europe.com/ru/info/professions/intro.html"/>-->
 		<relatedlink type="hr"/>
 		<relatedlink name="Вопросы и ответы" url="faq-armory.xml"/>
-		<relatedlink name="Оружейная" type="external" url="http://forums.wow-europe.com/thread.html?topicId=5591699784&amp;sid=5"/>		
-		<relatedlink name="Сообщаить об ошибке" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Введите описание ошибки. Browser Agent: REPLACEBROWSER. Error on page: REPLACEURL"/>
+		<!--<relatedlink name="Оружейная" type="external" url="http://forums.wow-europe.com/thread.html?topicId=5591699784&amp;sid=5"/>		
+		<relatedlink name="Сообщаить об ошибке" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Введите описание ошибки. Browser Agent: REPLACEBROWSER. Error on page: REPLACEURL"/>-->
 	</relatedlinks>
 </relatedinfo>

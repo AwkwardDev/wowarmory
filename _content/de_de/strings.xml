@@ -1384,7 +1384,7 @@
 <!--character profile header-->
 		<str id="armory.icon.realm">Realm</str>
 		<str id="armory.icon.battleGroup">Realmpool</str>
-		<str id="armory.forum.link.realm">Hier kommt ihr zu den Realmforen</str>
+		<str id="armory.forum.link.realm">Hier kommt ihr zum Realmforum</str>
 		<str id="armory.forum.link.battleGroup">Hier kommt ihr zu den Realmpoolforen</str>
 		<str id="armory.forum.link.arena">Hier kommt ihr zu den Arenaforen</str>
 

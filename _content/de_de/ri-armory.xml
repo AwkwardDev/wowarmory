@@ -9,13 +9,13 @@
 		<faq question="Auf welche zusätzlichen Features habe ich nach einem Login in das Arsenal Zugriff?">
 			In der oberen rechten Ecke des Arsenals befindet sich ein Reiter mit der Aufschrift "Einloggen". Nutzt für den Login die gleichen Accountdaten, die ihr für den Login in wolrd of Warcraft verwendet. Einmal eingeloggt, könnt ihr login-geschützte Daten, wie die Gildenbank oder den persönlichen Kalender des Charakters einsehen.
 			<p/>
-			Erfahrt mehr über das Interface zur Charakterauswahl und den Vorgang des Einloggens in unserer <a href="/faq-login.xml">FAQ zur Anmeldung im Arsenal</a>.
+			Erfahrt mehr über das Interface zur Charakterauswahl und den Vorgang des Einloggens in unserer <a href="faq-login.xml">FAQ zur Anmeldung im Arsenal</a>.
 		</faq>
 		<faq question="Warum sieht meine Charakteransicht auf einmal anders aus?">
-			Mit Patch 3.3 wurde die Charakteransicht im Arsenal neu überarbeitet und um einige neue Funktionen wie einer 3D-Modell-Ansicht, einem Charakter-Aktivitäts- sowie Kalender-Feed und vielem mehr erweitert. Erfahrt mehr über die neuen Funktionen auf der Seite zu den <a href="/updates.xml">Aktualisierungen</a>.
+			Mit Patch 3.3 wurde die Charakteransicht im Arsenal neu überarbeitet und um einige neue Funktionen wie einer 3D-Modell-Ansicht, einem Charakter-Aktivitäts- sowie Kalender-Feed und vielem mehr erweitert. Erfahrt mehr über die neuen Funktionen auf der Seite zu den <a href="updates.xml">Aktualisierungen</a>.
 		</faq>	
 		<!--<faq exclude="CN,TW" question="Was ist die Mobile Armory?">
-			Die World of Warcraft Mobile Armory ist eine mobile Version der offiziellen durchsuchbaren Datenbank von World of Warcraft für das iPhone™ und den iPod touch®. Diese kostenlose Anwendung ist als Download im Apple-Shop erhältlich und bietet größtenteils die gleiche Funktionalität, wie die Webseite des Arsenals. Vollständige Details hierzu findet ihr auf der Webseite zur <a href="/iphone.xml">Mobile Armory</a>.
+			Die World of Warcraft Mobile Armory ist eine mobile Version der offiziellen durchsuchbaren Datenbank von World of Warcraft für das iPhone™ und den iPod touch®. Diese kostenlose Anwendung ist als Download im Apple-Shop erhältlich und bietet größtenteils die gleiche Funktionalität, wie die Webseite des Arsenals. Vollständige Details hierzu findet ihr auf der Webseite zur <a href="iphone.xml">Mobile Armory</a>.
 		</faq>-->
 		<faq question="Welche Browser werden für das Arsenal unterstützt und empfohlen?">
 			Das Arsenal unterstützt Internet Explorer (Version 6.0 und neuer), Firefox, Opera 9, Safari und Chrome und wurde für die neuesten Versionen dieser Browser optimiert. Außerdem benötigen einige Features den <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;promoid=BIOW">Flash Player</a>, um korrekt angezeigt zu werden.

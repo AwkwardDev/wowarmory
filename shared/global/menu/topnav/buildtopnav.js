@@ -73,19 +73,23 @@ break;
  break;
 
  case "de_de": 
-	link1 = new Object();
-	link1.text = "Das Arsenal"
-	link1.href = "http://www.landoflegends.de/arsenal/index.xml"
-	
+ 	link1 = new Object();
+	link1.text = "WoW-Europe.com"
+	link1.href = "http://www.wow-europe.com/de/index.xml"
+
 	link2 = new Object();
-	link2.text = "LoL-Portal"
-	link2.href = "http://www.landoflegends.de"
+	link2.text = "Das Arsenal"
+	link2.href = "http://eu.wowarmory.com/?locale=de_de"
 	
 	link3 = new Object();
-	link3.text = "LoL-Forum"
-	link3.href = "http://www.landoflegends.de/index.php"
+	link3.text = "Foren"
+	link3.href = "http://forums.wow-europe.com/index.html?sid=3"
 	
-	//showEUStore = true;
+	link4 = new Object();
+	link4.text = "Blizzard Shop"
+	link4.href = "http://eu.blizzard.com/store/"
+	
+	showEUStore = true;
  break;
  
 case "zh_cn":

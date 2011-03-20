@@ -471,7 +471,7 @@
 		</div>
 		<div class="module-block-right">
 			<xsl:if test="$region != 'CN' and $region != 'TW' and $lang != 'zh_cn' and $lang != 'zh_tw'">
-				<xsl:comment><div style="margin: 0 0 10px 0">
+				<div style="margin: 0 0 10px 0">
 					<xsl:call-template name="flash">
 
 						<xsl:with-param name="id" select="'mobile_armory_banner'"/>
@@ -484,7 +484,7 @@
 						<xsl:with-param name="flashvars" select="concat('linkUrl=', 'iphone.xml')"/>
 					</xsl:call-template>
 
-				</div></xsl:comment>
+				</div>
 			</xsl:if>
 			<div class="rinfo">
 				<div class="module">

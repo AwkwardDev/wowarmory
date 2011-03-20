@@ -240,7 +240,7 @@
 				<xsl:if test="not(position() = last())"><span>|</span></xsl:if>	
 			</xsl:for-each>
 			
-			<xsl:comment><br/>
+			<br/>
 			
 			<em><xsl:value-of select="$loc/strs/common/str[@id='labels.selectregioncolon']"/></em>
 			<xsl:for-each select="$loc/strs/region/str">
@@ -250,7 +250,7 @@
 					<xsl:if test="starts-with($region,@id)">select</xsl:if>
 				</xsl:attribute>
 				<xsl:value-of select="@name"/></a><span>|</span>
-			</xsl:for-each></xsl:comment>
+			</xsl:for-each>
 		</div>
 	</div>
 

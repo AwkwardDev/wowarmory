@@ -9,17 +9,17 @@
 		<faq question="¿Qué nuevas características están disponibles al iniciar sesión en la Armería?">
 			Haz clic en el enlace "Iniciar sesión" ubicado en la parte superior derecha de la pantalla para dirigirte a la página de inicio de sesión de la Armería. Ingresa la misma información de cuenta que utilizas para jugar World of Warcraft. Una vez que te conectes tendrás acceso al contenido protegido con los personajes de esa cuenta, incluyendo bancos de hermandad y el calendario para el jugador.
 			<p/>
-			Para más información acerca de esta interfaz de selección de personaje, consulta las <a href="faq-login.xml">preguntas frecuentes</a>.
+			Para más información acerca de esta interfaz de selección de personaje, consulta las <a href="/faq-login.xml">preguntas frecuentes</a>.
 		</faq>
-		<!--<faq exclude="CN,TW" question="¿Qué es la Armería Móvil?">
-			La Armería Móvil es una versión portátil, para iPhone™ y iPod touch®, de la base de datos oficial de World of Warcraft. Esta aplicación gratuita, que podrás descargar desde la iTunes® App Store, contiene casi las mismas funciones y datos que hay en el sitio web de la Armería. Si deseas más información, visita la página de la <a href="iphone.xml">Armería Móvil</a>.		
-		</faq>-->
+		<faq exclude="CN,TW" question="¿Qué es la Armería Móvil?">
+			La Armería Móvil es una versión portátil, para iPhone™ y iPod touch®, de la base de datos oficial de World of Warcraft. Esta aplicación gratuita, que podrás descargar desde la iTunes® App Store, contiene casi las mismas funciones y datos que hay en el sitio web de la Armería. Si deseas más información, visita la página de la <a href="/iphone.xml">Armería Móvil</a>.		
+		</faq>
 		<faq question="¿Para qué sirve la opción &quot;Buscar mejora&quot; que aparece en los objetos de un perfil de personaje?">
 			Si colocas el puntero de tu ratón sobre cualquier objeto en un perfil de personaje, aparecerá una pequeña flecha que se convertirá en un botón llamado "Buscar mejora". Hacer clic en éste te conducirá a la página de resultados de búsqueda de objetos, donde aparecerá una lista de mejoras posibles para el objeto y el personaje específicos.
 			<p/>
 			La lista de mejoras recomendadas tomará en cuenta la clase del personaje, sus estadísticas y la calidad de su armamento. Podrás llevar a cabo búsquedas personalizadas con el fin de encontrar mejoras para cualquier personaje, y objeto, en World of Warcraft; lo que también será útil para aquellos personajes que posean múltiples conjuntos de armamento. La búsqueda mostrará los resultados más precisos cuando tu personaje no tenga beneficios que afecten sus estadísticas.
 			<p/>
-			Consulta nuestra <a href="faq-item-info-recommended.xml">sección de preguntas frecuentes sobre la búsqueda de mejoras</a> para más información.
+			Consulta nuestra <a href="/faq-item-info-recommended.xml">sección de preguntas frecuentes sobre la búsqueda de mejoras</a> para más información.
 		</faq>
 		<faq question="¿Qué significa el término &quot;Relevancia&quot; en las páginas de resultados de búsqueda?">
 			Esta categoría, similar a la clasificación de los buscadores de Internet, intenta ordenar los resultados obtenidos en una búsqueda con el fin de desplegar los más apropiados al principio de la página. La relevancia se determina calculando una serie de factores, que varían según el tipo de búsqueda, por medio de un algoritmo. Por ejemplo, la relevancia del nombre específico de un personaje puede verse afectada por su nivel, la última vez que se conectó, etc.

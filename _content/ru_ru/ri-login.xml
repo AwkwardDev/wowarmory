@@ -28,9 +28,9 @@
 		<relatedlink name="Награды фракций" url="factions.xml"/>
 		<relatedlink name="Награды за PvP-бои" url="pvprewards.xml"/>		
 		<relatedlink type="hr"/>
-		<!--<relatedlink name="Большой Турнир" url="arena-tournament.xml"/>		
-		<relatedlink type="hr"/>-->		
+		<relatedlink name="Большой Турнир" url="arena-tournament.xml"/>		
+		<relatedlink type="hr"/>		
 		<relatedlink name="Часто задаваемые вопросы" url="faq-armory.xml"/>		
-		<!--<relatedlink name="Сообщить об ошибке" type="report" url="mailto:wowarmory@blizzard.com?subject=Ошибка Оружейной&amp;body=Опишите, пожалуйста, в чем заключается ошибка. Браузер: НАЗВАНИЕ БРАУЗЕРА. Адрес страницы, на которой выдается ошибка: адрес"/>-->
+		<relatedlink name="Сообщить об ошибке" type="report" url="mailto:wowarmory@blizzard.com?subject=Ошибка Оружейной&amp;body=Опишите, пожалуйста, в чем заключается ошибка. Браузер: НАЗВАНИЕ БРАУЗЕРА. Адрес страницы, на которой выдается ошибка: адрес"/>
 	</relatedlinks>
 </relatedinfo>

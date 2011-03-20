@@ -49,11 +49,11 @@
 		<relatedlink name="Награды за PvP-бои" url="pvprewards.xml"/>		
 		<relatedlink type="hr"/>
 		<relatedlink name="Боевые рейтинги" type="external" url="http://www.wow-europe.com/ru/info/basics/characters.html"/>				
-		<!--<relatedlink name="Путеводитель по предметам" type="external" url="http://www.wow-europe.com/ru/info/items/basics.html"/>-->
+		<relatedlink name="Путеводитель по предметам" type="external" url="http://www.wow-europe.com/ru/info/items/basics.html"/>
 		<relatedlink type="hr"/>
-		<!--<relatedlink name="Возможные проблемы" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016061940&amp;sid=1"/>-->
+		<relatedlink name="Возможные проблемы" type="external" url="http://forums.wow-europe.com/thread.html?topicId=1016061940&amp;sid=1"/>
 		<relatedlink name="Часто задаваемые вопросы" url="faq-armory.xml"/>		
-		<!--<relatedlink name="Сообщить о технической ошибке" type="report" url="http://forums.wow-europe.com/board.html?&amp;sid=5&amp;forumId=50005"/>
-		<relatedlink name="Сообщить об ошибке в переводе" type="report" url="http://forums.wow-europe.com/board.html?forumId=50002&amp;sid=5"/>-->
+		<relatedlink name="Сообщить о технической ошибке" type="report" url="http://forums.wow-europe.com/board.html?&amp;sid=5&amp;forumId=50005"/>
+		<relatedlink name="Сообщить об ошибке в переводе" type="report" url="http://forums.wow-europe.com/board.html?forumId=50002&amp;sid=5"/>
 	</relatedlinks>
 </relatedinfo>

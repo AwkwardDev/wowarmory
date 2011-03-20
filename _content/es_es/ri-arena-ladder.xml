@@ -22,12 +22,12 @@
 	</faqlist>
 	<relatedlinks>
 		<relatedlink name="Calculadora para las Arenas" url="arena-calculator.xml"/>	
-		<!--<relatedlink name="Salón de la Fama de las Arenas" url="hof/one/index.xml"/>-->
+		<relatedlink name="Salón de la Fama de las Arenas" url="hof/one/index.xml"/>
 		<relatedlink type="hr"/>
 		<relatedlink name="Sistema de Arena" type="external" url="http://www.wow-europe.com/es/info/basics/arena/index.html"/>
-		<!--<relatedlink name="Las Arenas en detalle" type="external" url="http://www.wow-europe.com/es/misc/wowinsider/wowi11/arena.html"/>
+		<relatedlink name="Las Arenas en detalle" type="external" url="http://www.wow-europe.com/es/misc/wowinsider/wowi11/arena.html"/>
 		<relatedlink type="hr"/>
 		<relatedlink name="Informa de un error" type="report" url="http://forums.wow-europe.com/board.html?forumId=11088&amp;sid=1"/>
-		<relatedlink name="Informa de un problema de traducción" type="translation" url="http://forums.wow-europe.com/board.html?forumId=11200&amp;sid=4"/>-->
+		<relatedlink name="Informa de un problema de traducción" type="translation" url="http://forums.wow-europe.com/board.html?forumId=11200&amp;sid=4"/>
 	</relatedlinks>
 </relatedinfo>

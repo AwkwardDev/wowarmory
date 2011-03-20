@@ -62,13 +62,13 @@
 		<relatedlink name="World of Warcraft Connect" url="wow-remote.xml"/>
 				
 		<relatedlink type="hr"/>
-		<!--<relatedlink name="World of Warcraft Mobile Armory" url="iphone.xml"/>
+		<relatedlink name="World of Warcraft Mobile Armory" url="iphone.xml"/>
 		<relatedlink name="Browser Such-Plugin" url="search-plugin.xml"/>
 		
-		<relatedlink type="hr"/>-->
+		<relatedlink type="hr"/>
 		<relatedlink name="Neu im Arsenal" url="updates.xml"/>
 		<relatedlink name="Häufig gestellte Fragen" url="faq-armory.xml"/>
-		<!--<relatedlink name="Bekannte Probleme" type="external" url="http://forums.wow-europe.com/thread.html?topicId=2405522417#10"/>
-		<relatedlink name="Fehler melden" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Type your error report below. Browser Agent: REPLACEBROWSER. Error on page: REPLACEURL"/>-->
+		<relatedlink name="Bekannte Probleme" type="external" url="http://forums.wow-europe.com/thread.html?topicId=2405522417#10"/>
+		<relatedlink name="Fehler melden" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Type your error report below. Browser Agent: REPLACEBROWSER. Error on page: REPLACEURL"/>
 	</relatedlinks>
 </relatedinfo>

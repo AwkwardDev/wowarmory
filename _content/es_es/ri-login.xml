@@ -28,9 +28,9 @@
 		<relatedlink name="Recompensas de facción" url="factions.xml"/>
 		<relatedlink name="Recompensas JcJ" url="pvprewards.xml"/>		
 		<relatedlink type="hr"/>
-		<!--<relatedlink name="Información del Torneo de Arenas" url="arena-tournament.xml"/>		
-		<relatedlink type="hr"/>-->
+		<relatedlink name="Información del Torneo de Arenas" url="arena-tournament.xml"/>		
+		<relatedlink type="hr"/>		
 		<relatedlink name="Preguntas frecuentes" url="faq-armory.xml"/>		
-		<!--<relatedlink name="Informa de un error" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Introduce tu informe de error a continuación. Browser Agent: REPLACEBROWSER. Error on page: REPLACEURL"/>-->
+		<relatedlink name="Informa de un error" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Introduce tu informe de error a continuación. Browser Agent: REPLACEBROWSER. Error on page: REPLACEURL"/>
 	</relatedlinks>
 </relatedinfo>

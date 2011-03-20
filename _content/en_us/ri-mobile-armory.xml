@@ -29,7 +29,7 @@
 		<relatedlink type="hr"/>
 		<relatedlink name="Armory Updates" url="updates.xml"/>
 		<relatedlink name="F.A.Q.s" url="faq-armory.xml"/>
-		<!--<relatedlink name="Known Issues" type="external" url="http://forums.worldofwarcraft.com/thread.html?topicId=1777873353&amp;sid=1"/>		
-		<relatedlink name="Report an Error" type="report" url="mailto:wowguide@blizzard.com?subject=WoW Armory Error&amp;body=Error on page: REPLACEURL%0A%0AType your error report here:%0A%0A%0A%0A%0A%0A---------------%0ARead the error reporting guidelines before submitting your email%0Ahttp://www.worldofwarcraft.com/info/faq/guide.html%0APlease use this email to report guide errors only. Any problems with the game or your account should be reported here: http://www.blizzard.com/support/wow/?id=aww01730p"/>-->
+		<relatedlink name="Known Issues" type="external" url="http://forums.worldofwarcraft.com/thread.html?topicId=1777873353&amp;sid=1"/>		
+		<relatedlink name="Report an Error" type="report" url="mailto:wowguide@blizzard.com?subject=WoW Armory Error&amp;body=Error on page: REPLACEURL%0A%0AType your error report here:%0A%0A%0A%0A%0A%0A---------------%0ARead the error reporting guidelines before submitting your email%0Ahttp://www.worldofwarcraft.com/info/faq/guide.html%0APlease use this email to report guide errors only. Any problems with the game or your account should be reported here: http://www.blizzard.com/support/wow/?id=aww01730p"/>
 	</relatedlinks>
 </relatedinfo>

@@ -27,10 +27,10 @@
 		<relatedlink name="Arena Calculator" url="arena-calculator.xml"/>	
 		<relatedlink type="hr"/>
 		<relatedlink name="Arena Intro" type="external" url="http://www.worldofwarcraft.com/pvp/arena/index.xml"/>
-		<!--<relatedlink name="Inside Arenas" type="external" url="http://www.worldofwarcraft.com/insider/11/arena.xml"/>
+		<relatedlink name="Inside Arenas" type="external" url="http://www.worldofwarcraft.com/insider/11/arena.xml"/>
 		<relatedlink name="Arena Weapon Rewards" type="external" url="http://www.worldofwarcraft.com/pvp/rewards-arena-weapons.html"/>
 		<relatedlink name="Arena Class Armor Rewards" type="external" url="http://www.worldofwarcraft.com/pvp/rewards-arena-class-armor.html"/>
 		<relatedlink type="hr"/>
-		<relatedlink name="Report an Error" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Type your error report below.  Error on page: REPLACEURL"/>-->
+		<relatedlink name="Report an Error" type="report" url="mailto:wowarmory@blizzard.com?subject=WoW Armory Error&amp;body=Type your error report below.  Error on page: REPLACEURL"/>
 	</relatedlinks>
 </relatedinfo>

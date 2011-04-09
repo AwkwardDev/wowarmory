@@ -274,7 +274,14 @@ Class Arenateams {
             $summary = 0;
             foreach(Armory::$realmData as $realm_info) {
                 $db = new ArmoryDatabaseHandler($realm_info['host_characters'], $realm_info['user_characters'], $realm_info['pass_characters'], $realm_info['name_characters'], $realm_info['charset_characters']);
+                switch($this->m_server) {
+            case SERVER_MANGOS:
                 $current_count = $db->selectCell("SELECT COUNT(`arena_team`.`arenateamid`) FROM `arena_team` AS `arena_team` LEFT JOIN `arena_team_stats` AS `arena_team_stats` ON `arena_team_stats`.`arenateamid` = `arena_team`.`arenateamid` WHERE `arena_team`.`type` = %d AND `arena_team_stats`.`rank` > 0", $type);
+                break;
+            case TRINITY_SERVER:
+                $current_count = $db->selectCell("SELECT COUNT(`arena_team`.`arenateamid`) FROM `arena_team` AS `arena_team` WHERE `arena_team`.`type` = %d AND `arena_team`.`rank` > 0", $type);
+                break;
+                }
                 $summary += $current_count;
             }
             return $summary;
@@ -311,18 +318,17 @@ Class Arenateams {
                         SELECT
                         `arena_team`.`arenaTeamId` AS `arenateamid`,
                         `arena_team`.`name`,
-                        `arena_team_stats`.`rating`,
-                        `arena_team_stats`.`weekGames`   AS `gamesPlayed`,
-                        `arena_team_stats`.`weekWins`    AS `gamesWon`,
-                        `arena_team_stats`.`rank`        AS `ranking`,
-                        `arena_team_stats`.`seasonGames` AS `seasonGamesPlayed`,
-                        `arena_team_stats`.`seasonWins`  AS `seasonGamesWon`,
+                        `arena_team`.`rating`,
+                        `arena_team`.`weekGames`   AS `gamesPlayed`,
+                        `arena_team`.`weekWins`    AS `gamesWon`,
+                        `arena_team`.`rank`        AS `ranking`,
+                        `arena_team`.`seasonGames` AS `seasonGamesPlayed`,
+                        `arena_team`.`seasonWins`  AS `seasonGamesWon`,
                         `characters`.`race`,
-                        `arena_team_stats`.`seasonGames`-`arena_team_stats`.`seasonWins` AS `lose`
+                        `arena_team`.`seasonGames`-`arena_team`.`seasonWins` AS `lose`
                         FROM `arena_team` AS `arena_team`
-                        LEFT JOIN `arena_team_stats` AS `arena_team_stats` ON `arena_team_stats`.`arenateamid`=`arena_team`.`arenateamid`
                         LEFT JOIN `characters` AS `characters` ON `characters`.`guid`=`arena_team`.`captainguid`
-                        WHERE `arena_team`.`type`=%d AND `arena_team_stats`.`rank` > 0
+                        WHERE `arena_team`.`type`=%d AND `arena_team`.`rank` > 0
                         ORDER BY `lose` %s LIMIT %d, 20", $type, $sort, $page);
                         break;
                 }
@@ -353,17 +359,16 @@ Class Arenateams {
                         SELECT
                         `arena_team`.`arenaTeamId` AS `arenateamid`,
                         `arena_team`.`name`,
-                        `arena_team_stats`.`rating`,
-                        `arena_team_stats`.`weekGames`   AS `gamesPlayed`,
-                        `arena_team_stats`.`weekWins`    AS `gamesWon`,
-                        `arena_team_stats`.`rank`        AS `ranking`,
-                        `arena_team_stats`.`seasonGames` AS `seasonGamesPlayed`,
-                        `arena_team_stats`.`seasonWins`  AS `seasonGamesWon`,
+                        `arena_team`.`rating`,
+                        `arena_team`.`weekGames`   AS `gamesPlayed`,
+                        `arena_team`.`weekWins`    AS `gamesWon`,
+                        `arena_team`.`rank`        AS `ranking`,
+                        `arena_team`.`seasonGames` AS `seasonGamesPlayed`,
+                        `arena_team`.`seasonWins`  AS `seasonGamesWon`,
                         `characters`.`race`
                         FROM `arena_team` AS `arena_team`
-                        LEFT JOIN `arena_team_stats` AS `arena_team_stats` ON `arena_team_stats`.`arenateamid`=`arena_team`.`arenaTeamId`
                         LEFT JOIN `characters` AS `characters` ON `characters`.`guid`=`arena_team`.`captainGuid`
-                        WHERE `arena_team`.`type`=%d AND `arena_team_stats`.`rank` > 0
+                        WHERE `arena_team`.`type`=%d AND `arena_team`.`rank` > 0
                         ORDER BY %s %s LIMIT %d, 20", $type, $order, $sort, $page);
                         break;
                 }

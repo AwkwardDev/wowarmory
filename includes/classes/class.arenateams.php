@@ -113,7 +113,7 @@ Class Arenateams {
                 SELECT
                 `rating`,
                 `weekGames`   AS `gamesPlayed`,
-                `weekWeens`   AS `gamesWon`,
+                `weekWins`   AS `gamesWon`,
                 `rank`        AS `ranking`,
                 `seasonGames` AS `seasonGamesPlayed`,
                 `seasonWins`  AS `seasonGamesWon`

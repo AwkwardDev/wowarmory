@@ -93,13 +93,13 @@ if(isset($_GET['sf'])) {
                 $sort = '`arena_team`.`name`';
             }
             elseif($_GET['sf'] == 'sgw') {
-                $sort = '`arena_team_stats`.`wins2`';
+                $sort = '`arena_team`.`seasonWins`';
             }
             elseif($_GET['sf'] == 'sgl') {
                 $sort = 'lose'; // Unique sorting
             }
             else {
-                $sort = '`arena_team_stats`.`' . $_GET['sf'] .'`';
+                $sort = '`arena_team`.`' . $_GET['sf'] .'`';
             }
             if(!isset($_GET['sd'])) {
                 $type = 'ASC';
